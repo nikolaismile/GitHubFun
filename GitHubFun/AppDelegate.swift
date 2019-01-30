@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by smilebooth on 1/30/19.
-//  Copyright © 2019 smilebooth. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
